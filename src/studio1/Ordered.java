@@ -23,6 +23,7 @@ public class Ordered {
 			isOrdered = true;
 		}
 		System.out.print(isOrdered);
+
 	}
 
 }
